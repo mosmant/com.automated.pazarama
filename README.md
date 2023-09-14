@@ -1,4 +1,4 @@
-![](src/test/resources/faladdin.png)
+<img src="src/main/resources/Pazarama.png"  width="60%" height="10%">
 
 # PAZARAMA QA Task
 
@@ -9,7 +9,7 @@
   - Model -> Page Object Model
   - Report -> extent report with base64
   
-# Structure
+## Structure
 - In base;
   - Reuse -> where ready and reuseable methods are saved
   ```java
@@ -54,8 +54,8 @@
                     options.addArguments("--disable-infobars");
                     options.addArguments("--remote-allow-origins=*");
                     options.addArguments("--disable-notifications");
-                    //options.setExperimentalOption("w3c", false);
-                    //options.addArguments("--headless");
+                    options.setExperimentalOption("w3c", false);
+                    options.addArguments("--headless");
 
                     driver = new ChromeDriver(options);
                     break;

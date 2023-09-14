@@ -27,7 +27,7 @@
     <!-- report name - displayed at top-nav -->
     <reportName> Pazarama Automation
       <![CDATA[
-        <img src="pazarama.png" style="position:absolute;left: -100px;top: -4px;height: 105%;max-width: 20%;"/>
+        <img src="src/main/resources/Pazarama.png" style="position:absolute;left: -100px;top: -4px;height: 105%;max-width: 20%;"/>
       ]]>
     </reportName>
 
