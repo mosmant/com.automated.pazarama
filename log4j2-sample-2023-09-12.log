@@ -1,0 +1,1903 @@
+[INFO ] 2023-09-12 12:34:43.548 [main] Listener - I am in onStart method Smoke
+[INFO ] 2023-09-12 12:34:48.010 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 12:34:48.016 [main] Listener - Test Skipped: goToPazaramaPage
+[INFO ] 2023-09-12 12:34:48.146 [main] Listener - I am in onFinish method Smoke
+[INFO ] 2023-09-12 12:36:26.964 [main] Listener - I am in onStart method Smoke
+[INFO ] 2023-09-12 12:36:28.472 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 12:36:28.477 [main] Listener - Test Skipped: goToPazaramaPage
+[INFO ] 2023-09-12 12:36:28.610 [main] Listener - I am in onFinish method Smoke
+[INFO ] 2023-09-12 12:38:41.710 [main] Listener - I am in onStart method pazarama
+[INFO ] 2023-09-12 12:38:41.728 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 12:38:41.728 [main] Listener - Test Skipped: goToPazaramaPage
+[INFO ] 2023-09-12 12:38:41.732 [main] Listener - I am in onFinish method pazarama
+[INFO ] 2023-09-12 12:41:24.978 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 12:41:24.981 [main] Listener - I am in onStart method Smoke
+[INFO ] 2023-09-12 12:41:29.971 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 12:41:29.996 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 12:41:30.001 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 12:41:34.000 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 12:41:35.209 [main] Listener - I am in onFinish method Smoke
+[INFO ] 2023-09-12 13:01:45.907 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 13:01:45.910 [main] Listener - I am in onStart method Smoke
+[INFO ] 2023-09-12 13:01:48.216 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 13:01:48.239 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 13:01:48.244 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 13:01:51.833 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 13:01:54.347 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:02:02.610 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:02:05.303 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[ERROR] 2023-09-12 13:02:15.690 [main] Reuse - Web element is not visible!
+[ERROR] 2023-09-12 13:02:26.086 [main] Reuse - Web element is not clickable!
+[INFO ] 2023-09-12 13:02:26.279 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 13:02:26.280 [main] Listener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"button.btn.btn-block.btn-primary"}
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3042802035f7264cc7f4253dc24f529a, findElement {using=css selector, value=button.btn.btn-block.btn-primary}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57327}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57327/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3042802035f7264cc7f4253dc24f529a
+[INFO ] 2023-09-12 13:02:26.523 [main] Listener - I am in onFinish method Smoke
+[INFO ] 2023-09-12 13:03:47.973 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 13:03:47.976 [main] Listener - I am in onStart method Smoke
+[INFO ] 2023-09-12 13:03:50.100 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 13:03:50.123 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 13:03:50.128 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 13:03:53.862 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 13:03:56.308 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:04:03.008 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:04:03.863 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 13:04:04.720 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 13:04:04.963 [main] Listener - I am in onFinish method Smoke
+[INFO ] 2023-09-12 13:21:57.072 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 13:21:57.076 [main] Listener - I am in onStart method Smoke
+[INFO ] 2023-09-12 13:21:59.610 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 13:21:59.634 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 13:21:59.640 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 13:22:03.158 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 13:22:10.864 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:22:12.260 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:22:13.091 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 13:22:13.871 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 13:22:14.145 [main] Listener - I am in onFinish method Smoke
+[INFO ] 2023-09-12 13:34:20.288 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 13:34:20.291 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 13:34:22.518 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 13:34:22.541 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 13:34:22.546 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 13:34:26.370 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 13:34:28.792 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:34:35.284 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 13:34:36.127 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 13:34:37.038 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 13:34:39.696 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 13:34:39.966 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:27:47.119 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:27:47.123 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:27:50.272 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:27:50.298 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:27:50.304 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:27:55.933 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:28:03.144 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:28:04.554 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:28:05.431 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:28:06.410 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:28:07.943 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:28:09.341 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:28:09.343 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:28:09.344 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:28:09.599 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:31:06.249 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:31:06.252 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:31:08.606 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:31:08.630 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:31:08.635 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:31:12.870 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:31:15.279 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:31:20.009 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:31:20.881 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:31:21.770 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:31:25.336 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:31:26.696 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:31:26.697 [main] Listener - Test Started: selectRandomCategories
+[INFO ] 2023-09-12 15:31:26.698 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 15:31:26.855 [main] Listener - Test Failed: selectRandomCategories
+[ERROR] 2023-09-12 15:31:26.856 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 15:31:27.123 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:45:12.949 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:45:12.952 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:45:15.026 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 15:45:15.053 [main] Listener - Test Started: selectRandomCategories
+[INFO ] 2023-09-12 15:45:15.058 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 15:45:15.288 [main] Listener - Test Failed: selectRandomCategories
+[ERROR] 2023-09-12 15:45:15.288 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 15:45:15.535 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:49:13.003 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:49:13.007 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:49:15.627 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:49:15.653 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:49:15.658 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:49:22.312 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:49:28.415 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:49:29.820 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:49:30.691 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:49:31.499 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:49:33.179 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:49:33.443 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:51:00.255 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:51:00.259 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:51:02.527 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:51:02.553 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:51:02.559 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:51:08.940 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:51:15.314 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:51:16.724 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:51:17.597 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:51:18.435 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:51:20.111 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:51:20.364 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:52:50.930 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:52:50.934 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:52:53.337 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:52:53.362 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:52:53.367 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:53:01.007 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:53:05.916 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:53:07.345 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:53:08.209 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:53:09.237 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:53:10.868 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:53:10.870 [main] Listener - Test Started: selectRandomCategories
+[INFO ] 2023-09-12 15:53:10.870 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:53:11.621 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:53:12.139 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[ERROR] 2023-09-12 15:53:22.367 [main] Reuse - Web element is not visible!
+[ERROR] 2023-09-12 15:53:32.677 [main] Reuse - Web element is not clickable!
+[INFO ] 2023-09-12 15:53:33.061 [main] Listener - Test Failed: selectRandomCategories
+[ERROR] 2023-09-12 15:53:33.061 [main] Listener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#Username"}
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79f972bddf0f005cd42b4c5bd23724b7, findElement {using=css selector, value=#Username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53077}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53077/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79f972bddf0f005cd42b4c5bd23724b7
+[INFO ] 2023-09-12 15:53:33.318 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:54:01.823 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:54:01.826 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:54:03.857 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 15:54:03.884 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:54:03.889 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:54:09.798 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:54:41.424 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:54:48.554 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:54:48.557 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:54:50.626 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:54:50.651 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:54:50.656 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:54:54.669 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:54:57.129 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:55:02.783 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:55:03.647 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:55:04.567 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:55:07.478 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 15:55:07.557 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:55:07.838 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:56:29.807 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:56:29.811 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:56:31.944 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 15:56:31.970 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:56:31.975 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:56:35.497 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:56:37.994 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:56:43.472 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:56:44.335 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:56:45.119 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:56:47.743 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 15:56:47.775 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 15:56:47.804 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:56:48.045 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 15:57:43.477 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 15:57:43.481 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 15:57:45.727 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 15:57:45.754 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 15:57:45.759 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 15:57:50.835 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 15:57:57.963 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:57:59.349 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 15:58:00.256 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 15:58:01.344 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 15:58:03.697 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 15:58:03.722 [main] Reuse - Kitap, Kırtasiye, Hobi, Oyuncak
+[INFO ] 2023-09-12 15:58:05.970 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 15:58:06.226 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:04:13.310 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:04:13.312 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:04:15.729 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 16:04:15.756 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:04:15.761 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:04:19.542 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:04:21.932 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:04:27.890 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:04:28.770 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:04:29.879 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:04:33.572 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:04:33.604 [main] Reuse - Ayakkabı, Çanta ve Aksesuar
+[INFO ] 2023-09-12 16:04:37.096 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:04:37.097 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 16:04:37.343 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:05:06.259 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:05:06.262 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:05:08.387 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:05:08.413 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:05:08.420 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:05:41.389 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:05:47.437 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:05:47.440 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:05:49.434 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:05:49.462 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:05:49.468 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:05:54.824 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:06:01.064 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:06:02.506 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:06:03.425 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:06:04.286 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:06:06.055 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:06:06.087 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 16:06:09.731 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:06:09.732 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 16:06:09.988 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:08:28.013 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:08:28.016 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:08:30.130 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:08:30.158 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:08:30.163 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:08:35.792 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:08:41.957 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:08:43.395 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:08:44.266 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:08:45.056 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:08:46.615 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:08:46.659 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 16:08:49.849 [main] Reuse - [[ChromeDriver: chrome on mac (5e5f2d04b5c5c74f6d09bb780aedc474)] -> css selector: .mega-menu-category li a]
+[INFO ] 2023-09-12 16:08:49.913 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:08:50.156 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:12:27.580 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:12:27.583 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:12:29.660 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:12:29.685 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:12:29.691 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:12:33.398 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:12:35.772 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:12:42.301 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:12:43.175 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:12:43.852 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:12:47.641 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:12:47.715 [main] Reuse - Kitap, Kırtasiye, Hobi, Oyuncak
+[INFO ] 2023-09-12 16:12:50.904 [main] Reuse - [[ChromeDriver: chrome on mac (795fbca1a51e4d66f8064b8e9f0e5a9b)] -> css selector: .mega-menu-category a]
+[INFO ] 2023-09-12 16:12:50.969 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:12:51.204 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:13:38.981 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:13:38.984 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:13:41.086 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:13:41.113 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:13:41.119 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:13:44.647 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:13:53.025 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:13:54.441 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:13:55.317 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:13:56.065 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:13:57.820 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:13:57.846 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 16:14:01.057 [main] Reuse - Tümü
+[INFO ] 2023-09-12 16:14:01.129 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:14:01.362 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:14:18.628 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:14:18.631 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:14:20.435 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:14:20.460 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:14:20.465 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:14:25.398 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:14:32.576 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:14:34.035 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:14:34.918 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:14:35.600 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:14:37.194 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:14:37.223 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 16:14:40.431 [main] Reuse - Bahçe
+[INFO ] 2023-09-12 16:14:40.457 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:14:40.688 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:15:17.077 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:15:17.080 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:15:19.185 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:15:19.211 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:15:19.218 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:15:20.948 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:15:24.424 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:15:29.033 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:15:29.890 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:15:31.040 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:15:36.004 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:15:36.034 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 16:15:39.234 [main] Reuse - Aydınlatma
+[INFO ] 2023-09-12 16:15:40.264 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:15:40.264 [main] Listener - java.lang.IllegalMonitorStateException: current thread is not owner
+[INFO ] 2023-09-12 16:15:40.531 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:16:51.431 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:16:51.434 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:16:53.541 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:16:53.567 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:16:53.574 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:16:57.342 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:16:59.851 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:17:07.529 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:17:08.388 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:17:09.517 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:17:12.299 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:17:12.341 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 16:17:15.544 [main] Reuse - MP3 Player
+[INFO ] 2023-09-12 16:17:15.627 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:17:15.860 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:17:39.910 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:17:39.914 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:17:41.758 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:17:41.786 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:17:41.792 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:17:45.473 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:17:51.011 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:17:55.604 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:17:56.469 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:17:57.363 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:17:59.869 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:17:59.897 [main] Reuse - Moda
+[INFO ] 2023-09-12 16:18:03.208 [main] Reuse - Hac, Umre Kıyafetleri
+[INFO ] 2023-09-12 16:18:04.564 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:18:04.564 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/hac-umre-kiyafetleri-k-K08076" class="text-gray-600 text-xxs font-normal hover:text-blue-500 hover:underline">...</a> is not clickable at point (368, 987). Other element would receive the click: <div data-v-09be6c34="" class="flex items-center py-5">...</div>
+  (Session info: chrome=116.0.5845.179)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [48c29e6640125dafef786be0a5dd09e6, clickElement {id=3ED3356B06293EAE4AFD3744BFECDB0E_element_154}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60989}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60989/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (48c29e6640125dafef786be0a5dd09e6)] -> css selector: .mega-menu-category a]
+Session ID: 48c29e6640125dafef786be0a5dd09e6
+[INFO ] 2023-09-12 16:18:04.817 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:18:20.361 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:18:20.364 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:18:22.155 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:18:22.182 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:18:22.188 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:18:25.945 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:18:27.444 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:18:35.868 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:18:36.747 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:18:37.697 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:18:40.002 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:18:40.029 [main] Reuse - Kitap, Kırtasiye, Hobi, Oyuncak
+[INFO ] 2023-09-12 16:18:43.235 [main] Reuse - Sınıf ve Laboratuvar Malzemeleri
+[INFO ] 2023-09-12 16:18:43.300 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:18:43.534 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:25:29.368 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:25:29.372 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:25:31.389 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:25:31.415 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:25:31.420 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:25:35.211 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:25:43.162 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:25:44.601 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:25:45.453 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:25:46.250 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:25:49.039 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:25:49.194 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 16:25:52.429 [main] Reuse - Televizyon Aksesuarları
+[INFO ] 2023-09-12 16:25:52.502 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:25:52.737 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:26:59.594 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:26:59.597 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:27:01.652 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:27:01.678 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:27:01.683 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:27:08.157 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:27:15.388 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:27:16.802 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:27:17.669 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:27:18.458 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:27:20.282 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:27:20.314 [main] Reuse - Oyun, Konsol ve Dijital Servisler
+[INFO ] 2023-09-12 16:27:23.604 [main] Reuse - Oyun Konsolu ve Oyunları
+[INFO ] 2023-09-12 16:27:25.768 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:27:26.057 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:28:01.458 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:28:01.461 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:28:04.071 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:28:04.097 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:28:04.102 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:28:09.252 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:28:41.943 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:28:43.367 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:28:44.247 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:28:45.065 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:28:46.729 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:28:46.757 [main] Reuse - Ayakkabı, Çanta ve Aksesuar
+[INFO ] 2023-09-12 16:28:50.000 [main] Reuse - Kadın Bot ve Çizme
+[INFO ] 2023-09-12 16:28:53.047 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:28:53.047 [main] Listener - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74ad6e48de2f2defe1a749f7fcdc85c1, executeScript {script=arguments[0].click();, args=[{element-6066-11e4-a52e-4f735466cecf=34D6A90516B0FE8C026382E613745D74_element_144}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64049}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64049/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74ad6e48de2f2defe1a749f7fcdc85c1
+[INFO ] 2023-09-12 16:28:53.317 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:29:43.425 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:29:43.429 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:29:45.584 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:29:45.613 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:29:45.619 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:29:49.346 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:29:53.035 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:29:58.797 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:29:59.669 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:30:00.468 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:30:02.997 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:30:03.041 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 16:30:06.257 [main] Reuse - Tarayıcılar, Scanner
+[INFO ] 2023-09-12 16:30:06.366 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:30:06.599 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:30:53.791 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:30:53.794 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:30:55.892 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:30:55.918 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:30:55.923 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:30:59.874 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:31:02.316 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:31:08.879 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:31:09.753 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:31:10.674 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:31:13.303 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:31:13.344 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 16:31:16.552 [main] Reuse - Fotoğraf Makinesi
+[INFO ] 2023-09-12 16:31:16.630 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:31:16.863 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:37:52.665 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:37:52.668 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:37:54.785 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:37:54.813 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:37:54.819 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:37:58.410 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:38:00.772 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:38:07.802 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:38:08.661 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:38:09.501 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:38:13.022 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:38:13.050 [main] Reuse - Oyun, Konsol ve Dijital Servisler
+[INFO ] 2023-09-12 16:38:16.263 [main] Reuse - Oyun Konsolu ve Oyunları
+[INFO ] 2023-09-12 16:38:16.315 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:38:16.551 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:38:37.702 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:38:37.705 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:38:39.546 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:38:39.573 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:38:39.578 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:38:43.461 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:38:44.959 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:38:52.755 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:38:53.610 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:38:54.495 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:38:57.046 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:38:57.084 [main] Reuse - Oyun, Konsol ve Dijital Servisler
+[INFO ] 2023-09-12 16:39:00.283 [main] Reuse - Oyun Konsolu ve Oyunları
+[INFO ] 2023-09-12 16:39:00.335 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:39:00.576 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:39:13.600 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:39:13.603 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:39:15.623 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:39:15.648 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:39:15.654 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:39:19.747 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:39:28.213 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:39:29.655 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:39:30.518 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:39:31.500 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:39:33.136 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:39:33.172 [main] Reuse - Moda
+[INFO ] 2023-09-12 16:39:36.363 [main] Reuse - Kadın Dış Giyim
+[INFO ] 2023-09-12 16:39:36.448 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:39:36.690 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:41:01.429 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:41:01.432 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:41:03.481 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:41:03.508 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:41:03.514 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:41:07.256 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:41:09.725 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:41:14.588 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:41:15.460 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:41:16.355 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:41:21.251 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:41:21.280 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 16:41:25.164 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:41:25.164 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 16:41:25.413 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:41:30.753 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:41:30.757 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:41:32.562 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:41:32.590 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:41:32.597 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:41:36.805 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:41:44.351 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:41:45.771 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:41:46.643 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:41:47.914 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:41:49.355 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:41:49.427 [main] Reuse - Süpermarket
+[INFO ] 2023-09-12 16:41:52.630 [main] Reuse - Köpek
+[INFO ] 2023-09-12 16:41:52.684 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:41:52.918 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:43:37.565 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:43:37.568 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:43:39.721 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:43:39.748 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:43:39.753 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:43:44.962 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:43:52.132 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:43:53.566 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:43:54.441 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:43:55.370 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:43:57.052 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:43:57.081 [main] Reuse - Oyun, Konsol ve Dijital Servisler
+[INFO ] 2023-09-12 16:44:00.296 [main] Reuse - Playstation 3
+[INFO ] 2023-09-12 16:44:00.380 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:44:00.620 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:50:11.216 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:50:11.220 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:50:13.231 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:50:13.257 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:50:13.263 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:50:16.822 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:50:23.625 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:50:25.069 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:50:25.929 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:50:26.996 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:50:30.357 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:50:30.382 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 16:50:33.584 [main] Reuse - Beslenme Ürünleri
+[INFO ] 2023-09-12 16:50:33.623 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:50:33.856 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:51:00.854 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:51:00.857 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:51:02.670 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:51:02.697 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:51:02.701 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:51:06.280 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:51:08.692 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:51:15.249 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:51:16.127 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:51:17.071 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:51:19.600 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:51:19.629 [main] Reuse - Kişisel Bakım ve Kozmetik
+[ERROR] 2023-09-12 16:51:22.899 [main] Reuse - Web element is not visible!
+[INFO ] 2023-09-12 16:51:23.831 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:51:23.831 [main] Listener - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b1081446e5459ab3e1fbb0c72c38fd3, getElementText {id=A21BE559F6B941DDD93F28310B9EA03A_element_132}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54725}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54725/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (5b1081446e5459ab3e1fbb0c72c38fd3)] -> css selector: .mega-menu-category a]
+Session ID: 5b1081446e5459ab3e1fbb0c72c38fd3
+[INFO ] 2023-09-12 16:51:24.076 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:53:05.968 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:53:05.972 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:53:08.073 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:53:08.101 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:53:08.106 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:53:11.773 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:53:19.555 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:53:20.989 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:53:21.850 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:53:22.665 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:53:25.296 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:53:25.338 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 16:53:28.539 [main] Reuse - Kadın Ped, Hijyen Ürünleri
+[INFO ] 2023-09-12 16:53:29.590 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 16:53:29.590 [main] Listener - java.lang.IndexOutOfBoundsException: Index 4 out of bounds for length 0
+[INFO ] 2023-09-12 16:53:29.851 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:54:16.381 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:54:16.384 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:54:18.407 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:54:18.434 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:54:18.440 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:54:22.107 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:54:25.629 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:54:32.193 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:54:33.111 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:54:33.884 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:54:35.539 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:54:35.570 [main] Reuse - Moda
+[INFO ] 2023-09-12 16:54:38.798 [main] Reuse - Erkek Çocuk Giyim
+[INFO ] 2023-09-12 16:54:43.866 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:54:44.181 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:55:07.856 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:55:07.859 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:55:09.950 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:55:09.975 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:55:09.980 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:55:16.608 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:55:22.503 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:55:23.938 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:55:24.800 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:55:25.703 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:55:27.653 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:55:27.687 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 16:55:30.909 [main] Reuse - Dekoratif Biblo, Figür
+[INFO ] 2023-09-12 16:55:41.390 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:55:41.631 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:55:55.977 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:55:55.981 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:55:58.024 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:55:58.051 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:55:58.056 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:56:01.957 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:56:09.889 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:56:11.313 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:56:12.177 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:56:13.030 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:56:15.573 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:56:15.617 [main] Reuse - Moda
+[INFO ] 2023-09-12 16:56:16.840 [main] Reuse - Kız Çocuk Mayo, Bikini
+[INFO ] 2023-09-12 16:56:27.272 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:56:27.509 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:57:21.870 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:57:21.873 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:57:23.901 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:57:23.926 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:57:23.932 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 16:57:28.759 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 16:57:31.200 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:57:36.872 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 16:57:37.738 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 16:57:38.825 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 16:57:42.172 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 16:57:42.221 [main] Reuse - Moda
+[INFO ] 2023-09-12 16:57:43.434 [main] Reuse - Erkek Üst Giyim
+[INFO ] 2023-09-12 16:57:49.468 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 16:57:49.703 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 16:59:55.513 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 16:59:55.516 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 16:59:57.574 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 16:59:57.599 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 16:59:57.605 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 17:00:02.024 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 17:00:04.514 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:00:10.275 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:00:11.193 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 17:00:12.040 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 17:00:14.533 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 17:00:14.572 [main] Reuse - Spor ve Outdoor
+[INFO ] 2023-09-12 17:00:15.805 [main] Reuse - Kış Sporları
+[INFO ] 2023-09-12 17:00:21.276 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 17:00:22.432 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 17:00:58.907 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 17:00:58.910 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 17:01:00.979 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 17:01:01.005 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 17:01:01.011 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 17:01:04.840 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 17:01:12.444 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:01:13.885 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:01:14.751 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 17:01:15.615 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 17:01:18.147 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 17:01:18.191 [main] Reuse - Spor ve Outdoor
+[INFO ] 2023-09-12 17:01:19.386 [main] Reuse - Spor Branşları
+[INFO ] 2023-09-12 17:01:24.897 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 17:01:26.094 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 17:02:21.998 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 17:02:22.001 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 17:02:24.094 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 17:02:24.119 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 17:02:24.125 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 17:02:27.809 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 17:02:30.550 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:02:37.999 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:02:38.894 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 17:02:39.761 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 17:02:42.306 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 17:02:42.339 [main] Reuse - Süpermarket
+[INFO ] 2023-09-12 17:02:43.648 [main] Reuse - Pişirme Kağıdı, Torbası
+[INFO ] 2023-09-12 17:02:49.144 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 17:02:49.376 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 17:04:10.732 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 17:04:10.736 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 17:04:12.746 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 17:04:12.771 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 17:04:12.776 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 17:04:20.121 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 17:04:25.435 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:04:26.858 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:04:27.719 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 17:04:29.206 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 17:04:30.834 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 17:04:30.861 [main] Reuse - Kitap, Kırtasiye, Hobi, Oyuncak
+[INFO ] 2023-09-12 17:04:32.072 [main] Reuse - Akülü ve Pedallı Araç
+[INFO ] 2023-09-12 17:04:37.508 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 17:04:37.508 [main] Listener - org.openqa.selenium.ElementNotInteractableException: element not interactable: https://www.pazarama.com/giris has no size and location
+  (Session info: chrome=116.0.5845.179)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5df4601df5080863f92c391d4c46d90b, actions {actions=[org.openqa.selenium.interactions.Sequence@d13baac]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59140}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59140/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5df4601df5080863f92c391d4c46d90b
+[INFO ] 2023-09-12 17:04:37.752 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 17:04:52.618 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 17:04:52.621 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 17:04:54.438 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 17:04:54.463 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 17:04:54.468 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 17:04:58.288 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 17:05:05.164 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:05:06.609 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 17:05:07.474 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 17:05:08.245 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 17:05:12.736 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 17:05:12.763 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 17:05:13.980 [main] Reuse - Bebek Güvenlik
+[INFO ] 2023-09-12 17:05:14.524 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 17:05:14.525 [main] Listener - org.openqa.selenium.ElementNotInteractableException: element not interactable: https://www.pazarama.com/giris has no size and location
+  (Session info: chrome=116.0.5845.179)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a14aa765fbaa58f2784d5b58c79f59ed, actions {actions=[org.openqa.selenium.interactions.Sequence@12f279b5]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59420}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59420/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a14aa765fbaa58f2784d5b58c79f59ed
+[INFO ] 2023-09-12 17:05:14.776 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:05:03.489 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:05:03.492 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:05:06.349 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:05:06.375 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:05:06.381 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:05:10.008 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:05:15.091 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:05:20.642 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:05:21.487 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:05:22.247 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:05:23.859 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:05:23.887 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 18:05:25.078 [main] Reuse - Medikal Ürünler
+[INFO ] 2023-09-12 18:05:25.689 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:05:25.689 [main] Listener - org.openqa.selenium.ElementNotInteractableException: element not interactable: https://www.pazarama.com/giris has no size and location
+  (Session info: chrome=116.0.5845.179)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d8955ee7c4c5cf895bc085d3aa7326d6, actions {actions=[org.openqa.selenium.interactions.Sequence@18dd5ed3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58075}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58075/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8955ee7c4c5cf895bc085d3aa7326d6
+[INFO ] 2023-09-12 18:05:25.944 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:23:40.802 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:23:40.805 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:23:42.870 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:23:42.896 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:23:42.902 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:23:46.628 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:23:49.149 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:23:55.718 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:23:56.575 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:23:57.534 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:24:00.289 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:24:00.315 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 18:24:01.617 [main] Reuse - Klima ve Isıtıcılar
+[INFO ] 2023-09-12 18:24:06.660 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:24:06.896 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:33:31.614 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:33:31.618 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:33:33.761 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:33:33.786 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:33:33.791 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:33:37.437 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:33:39.925 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:33:46.521 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:33:47.369 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:33:48.340 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:33:50.983 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:33:51.030 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 18:33:52.577 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:33:52.577 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 18:33:52.846 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:36:15.055 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:36:15.058 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:36:17.113 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:36:17.141 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:36:17.146 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:36:21.764 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:36:22.233 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:36:29.639 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:36:30.492 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:36:31.318 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:36:33.835 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:36:33.861 [main] Reuse - Süpermarket
+[INFO ] 2023-09-12 18:36:35.347 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:36:35.347 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 18:36:35.587 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:38:01.643 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:38:01.646 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:38:03.909 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:38:03.935 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:38:03.940 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:38:07.707 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:38:12.432 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:38:17.878 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:38:18.725 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:38:19.435 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:38:20.998 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:38:21.029 [main] Reuse - Süpermarket
+[INFO ] 2023-09-12 18:38:22.241 [main] Reuse - Çöp Torbası
+[INFO ] 2023-09-12 18:38:32.725 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:38:32.961 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:39:31.761 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:39:31.764 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:39:33.985 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:39:34.009 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:39:34.014 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:39:37.837 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:39:41.505 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:39:47.476 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:39:48.318 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:39:49.068 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:39:51.559 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:39:51.590 [main] Reuse - Ayakkabı, Çanta ve Aksesuar
+[INFO ] 2023-09-12 18:39:52.795 [main] Reuse - Çanta Yapım Malzemeleri
+[INFO ] 2023-09-12 18:39:57.929 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:39:58.166 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:40:32.940 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:40:32.944 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:40:34.987 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:40:35.013 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:40:35.018 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:40:38.992 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:40:44.865 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:40:51.294 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:40:52.153 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:40:52.915 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:40:55.413 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:40:55.457 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 18:40:56.664 [main] Reuse - Muayene Araçları
+[INFO ] 2023-09-12 18:41:01.779 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:41:02.019 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:42:14.110 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:42:14.113 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:42:16.383 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:42:16.409 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:42:16.415 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:42:20.965 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:42:24.434 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:42:28.945 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:42:29.808 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:42:30.566 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:42:33.259 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:42:33.300 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 18:42:34.502 [main] Reuse - Ev Düzenleme
+[INFO ] 2023-09-12 18:42:39.632 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:42:39.864 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:43:05.477 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:43:05.480 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:43:07.517 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:43:07.544 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:43:07.550 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:43:11.115 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:43:18.643 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:43:20.027 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:43:20.876 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:43:21.682 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:43:24.069 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:43:24.109 [main] Reuse - Spor ve Outdoor
+[INFO ] 2023-09-12 18:43:25.321 [main] Reuse - Outdoor Giyim
+[INFO ] 2023-09-12 18:43:30.446 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:43:30.678 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:43:44.967 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:43:44.970 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:43:47.194 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:43:47.218 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:43:47.222 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:43:50.734 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:43:53.245 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:43:59.740 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:44:00.604 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:44:01.390 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:44:04.061 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:44:04.103 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 18:44:05.318 [main] Reuse - Sarf Malzemeleri
+[INFO ] 2023-09-12 18:44:15.440 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:44:15.679 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:45:09.855 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:45:09.858 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:45:12.209 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:45:12.235 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:45:12.240 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:45:16.189 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:45:22.052 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:45:26.508 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:45:27.376 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:45:28.874 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:45:30.627 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:45:30.656 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 18:45:31.066 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:45:31.066 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 18:45:31.313 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:48:19.749 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:48:19.752 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:48:22.158 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:48:22.184 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:48:22.189 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:48:31.428 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:48:36.606 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:48:38.031 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:48:38.893 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:48:39.809 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:48:41.546 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:48:41.574 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 18:48:42.807 [main] Reuse - Bebek Pijama, Pijama Takımı
+[INFO ] 2023-09-12 18:48:48.661 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:48:48.663 [main] Listener - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f86b840131710cf57d92645c9e6507c7, executeScript {script=arguments[0].click();, args=[{element-6066-11e4-a52e-4f735466cecf=BAB3AA7C2055E477889FC9FA4F547BA4_element_166}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53857}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53857/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f86b840131710cf57d92645c9e6507c7
+[INFO ] 2023-09-12 18:48:48.928 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:50:30.897 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:50:30.900 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:50:32.932 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:50:32.957 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:50:32.962 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:51:05.987 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:51:13.973 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:51:15.384 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:51:16.258 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:51:17.089 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:51:18.942 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:51:18.968 [main] Reuse - Oyun, Konsol ve Dijital Servisler
+[INFO ] 2023-09-12 18:51:20.189 [main] Reuse - Nintendo
+[INFO ] 2023-09-12 18:51:23.172 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:51:23.172 [main] Listener - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ba9343618ef1b1ae40b05c970a89bb6, executeScript {script=arguments[0].click();, args=[{element-6066-11e4-a52e-4f735466cecf=DAA6898F2C0416754C780F053135B065_element_123}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54530}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54530/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ba9343618ef1b1ae40b05c970a89bb6
+[INFO ] 2023-09-12 18:51:23.424 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:54:59.392 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:54:59.395 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:55:01.655 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:55:01.680 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:55:01.685 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:55:05.230 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:55:07.679 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:55:14.297 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:55:15.142 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:55:16.002 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:55:18.717 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:55:18.747 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 18:55:20.075 [main] Reuse - Powerbank, Taşınabilir Şarj Cihazı
+[INFO ] 2023-09-12 18:55:22.473 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:55:22.473 [main] Listener - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5f9c6bd2dccbdaab676d4925486a581b, executeScript {script=arguments[0].click();, args=[{element-6066-11e4-a52e-4f735466cecf=79C4C0E8F9A8846195F10E11A606390B_element_146}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55757}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55757/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f9c6bd2dccbdaab676d4925486a581b
+[INFO ] 2023-09-12 18:55:22.727 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:55:52.938 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:55:52.941 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:55:54.899 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:55:54.925 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:55:54.930 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:55:58.431 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 18:56:00.972 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:56:06.617 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 18:56:07.469 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 18:56:08.231 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 18:56:11.752 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:56:11.798 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 18:56:13.087 [main] Reuse - Araç içi Telefon Tutucu
+[INFO ] 2023-09-12 18:56:23.095 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 18:56:23.338 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:56:59.896 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:56:59.899 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:57:02.188 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:57:02.214 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:57:02.219 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:57:02.367 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:57:02.368 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 18:57:02.617 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:57:14.670 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:57:14.674 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:57:16.599 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:57:16.625 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:57:16.630 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:57:20.209 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:57:20.247 [main] Reuse - Ayakkabı, Çanta ve Aksesuar
+[INFO ] 2023-09-12 18:57:27.912 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:57:27.912 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 18:57:29.123 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:57:43.714 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:57:43.717 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:57:45.520 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 18:57:45.546 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:57:45.551 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:57:49.172 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:57:49.209 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 18:57:53.987 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:57:53.988 [main] Listener - java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 0
+[WARN ] 2023-09-12 18:57:54.009 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-09-12 18:57:56.211 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 18:58:36.317 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 18:58:36.320 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 18:58:38.612 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 18:58:38.635 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 18:58:38.641 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 18:58:43.431 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 18:58:43.874 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 18:58:47.167 [main] Reuse - Bebek Tulum
+[INFO ] 2023-09-12 18:58:47.599 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 18:58:47.599 [main] Listener - java.lang.IndexOutOfBoundsException: Index 47 out of bounds for length 0
+[INFO ] 2023-09-12 18:58:47.858 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:01:51.766 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:01:51.769 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:01:54.047 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:01:54.071 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:01:54.076 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:01:58.294 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:01:58.331 [main] Reuse - Ayakkabı, Çanta ve Aksesuar
+[INFO ] 2023-09-12 19:02:07.796 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 19:02:07.796 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 19:02:08.068 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:03:27.547 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:03:27.550 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:03:29.774 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:03:29.799 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:03:29.805 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:03:33.372 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:03:33.410 [main] Reuse - Oyun, Konsol ve Dijital Servisler
+[INFO ] 2023-09-12 19:03:37.448 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 19:03:37.448 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 19:03:38.463 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:04:00.826 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:04:00.829 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:04:02.564 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 19:04:02.590 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:04:02.595 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:04:06.351 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:04:06.391 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 19:04:11.356 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 19:04:11.356 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 19:04:11.652 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:04:27.026 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:04:27.029 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:04:28.997 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:04:29.021 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:04:29.027 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:04:33.164 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:04:33.202 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 19:04:41.301 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 19:04:41.301 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 19:04:41.550 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:05:32.534 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:05:32.537 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:05:35.122 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:05:35.149 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:05:35.154 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:05:39.019 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:05:39.057 [main] Reuse - Ayakkabı, Çanta ve Aksesuar
+[INFO ] 2023-09-12 19:05:47.364 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 19:05:47.364 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 19:05:47.640 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:06:50.781 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:06:50.785 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:06:53.286 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:06:53.310 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:06:53.315 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:06:57.037 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:06:57.075 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 19:07:05.585 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 19:07:05.585 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 19:07:05.834 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:07:51.324 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:07:51.327 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:07:53.359 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 19:07:53.385 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:07:53.390 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:07:57.279 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:07:57.321 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 19:08:16.342 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:08:16.590 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:09:00.780 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:09:00.783 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:09:03.051 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:09:03.077 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:09:03.082 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:09:06.637 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:09:06.675 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 19:09:27.124 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:09:27.381 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:10:31.747 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:10:31.750 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:10:33.756 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 19:10:33.782 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:10:33.787 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:10:37.540 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:10:57.995 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:11:00.735 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:11:00.738 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:11:02.701 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:11:02.726 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:11:02.732 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:11:06.291 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:11:23.311 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:11:23.647 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:13:13.111 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:13:13.114 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:13:15.572 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 19:13:15.597 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:13:15.602 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:13:19.445 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:13:36.472 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:13:36.731 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:17:56.297 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:17:56.301 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:17:58.585 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 19:17:58.610 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:17:58.617 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:18:02.565 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:18:02.605 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 19:18:08.143 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:18:08.424 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:18:24.073 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:18:24.076 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:18:26.124 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 19:18:26.151 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:18:26.157 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:18:29.772 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:18:29.811 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 19:18:39.829 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:18:40.108 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 19:20:22.027 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 19:20:22.031 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 19:20:24.340 [main] BaseTest - Window size: (3440, 1359)
+[INFO ] 2023-09-12 19:20:24.365 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 19:20:24.371 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 19:20:28.004 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 19:20:28.045 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 19:20:42.218 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 19:20:42.496 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:01:00.870 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:01:00.874 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:01:03.632 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 22:01:03.660 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:01:03.667 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:01:09.780 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 22:01:16.892 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:01:18.347 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:01:19.221 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 22:01:20.079 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 22:01:21.660 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:01:21.688 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 22:01:29.840 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:01:30.647 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:03:21.993 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:03:21.997 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:03:24.173 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 22:03:24.212 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:03:24.219 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:03:30.703 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 22:03:35.913 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:03:37.389 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:03:38.268 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 22:03:39.163 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 22:03:40.729 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:03:40.758 [main] Reuse - Oyun, Konsol ve Dijital Servisler
+[INFO ] 2023-09-12 22:03:48.822 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:03:49.083 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:04:08.155 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:04:08.159 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:04:10.407 [main] BaseTest - Window size: (1800, 1125)
+[INFO ] 2023-09-12 22:04:10.433 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:04:10.441 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:04:14.125 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 22:04:18.717 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:04:23.490 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:04:24.368 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 22:04:25.124 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 22:04:27.886 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:04:27.916 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 22:04:36.054 [main] Listener - goToPazaramaPage test is succeed.
+[WARN ] 2023-09-12 22:04:36.068 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-09-12 22:04:36.310 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:13:42.438 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:13:42.442 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:13:44.412 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:13:44.443 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:13:44.451 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:13:51.478 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 22:13:57.583 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:13:59.060 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:13:59.941 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 22:14:00.758 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 22:14:02.483 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:14:02.611 [main] Reuse - Spor ve Outdoor
+[INFO ] 2023-09-12 22:14:05.772 [main] Reuse - Eskirim Ekipman ve Aksesuarları
+[INFO ] 2023-09-12 22:14:09.855 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:14:10.110 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:18:43.397 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:18:43.402 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:18:45.391 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:18:45.417 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:18:45.424 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:18:52.599 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:18:52.644 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 22:18:55.806 [main] Reuse - Epilasyon, Ağda
+[INFO ] 2023-09-12 22:18:59.944 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:19:00.232 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:28:19.780 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:28:19.784 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:28:21.752 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:28:21.778 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:28:21.784 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:28:51.569 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:28:51.817 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:28:51.817 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[WARN ] 2023-09-12 22:28:51.827 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-09-12 22:28:52.085 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:29:01.574 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:29:01.579 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:29:03.282 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:29:03.313 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:29:03.319 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:29:32.027 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:29:32.280 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:29:32.280 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:29:32.555 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:29:46.247 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:29:46.250 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:29:48.016 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:29:48.043 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:29:48.049 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:29:51.797 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:29:51.844 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 22:29:58.340 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:29:58.340 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:29:58.615 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:30:29.689 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:30:29.693 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:30:31.865 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:30:31.892 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:30:31.899 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:30:39.052 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:30:39.101 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 22:30:42.261 [main] Reuse - Cep Telefonu Çantası
+[INFO ] 2023-09-12 22:30:46.408 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:30:46.684 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:31:26.461 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:31:26.464 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:31:28.215 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:31:28.241 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:31:28.247 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:31:36.139 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:31:36.181 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 22:31:39.358 [main] Reuse - Telsiz Aksesuarları
+[INFO ] 2023-09-12 22:31:43.293 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:31:43.294 [main] Listener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".nuxt-link-exact-active.nuxt-link-active.text-blue-500.text-base.font-semibold"}
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74cb0b95f496919d20067e9c20f5032b, findElement {using=css selector, value=.nuxt-link-exact-active.nuxt-link-active.text-blue-500.text-base.font-semibold}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59343}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59343/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74cb0b95f496919d20067e9c20f5032b
+[INFO ] 2023-09-12 22:31:43.554 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:32:19.059 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:32:19.063 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:32:21.192 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:32:21.223 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:32:21.229 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:32:27.639 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:32:27.692 [main] Reuse - Spor ve Outdoor
+[INFO ] 2023-09-12 22:32:30.860 [main] Reuse - Eskirim Ekipman ve Aksesuarları
+[INFO ] 2023-09-12 22:32:41.402 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:32:41.718 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:34:07.972 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:34:07.976 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:34:09.950 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:34:09.983 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:34:09.989 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:34:14.053 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:34:14.099 [main] Reuse - Süpermarket
+[INFO ] 2023-09-12 22:34:20.154 [main] Reuse - Streç Film
+[INFO ] 2023-09-12 22:34:26.378 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:34:26.378 [main] Listener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".nuxt-link-exact-active.nuxt-link-active.text-blue-500.text-base.font-semibold"}
+  (Session info: chrome=116.0.5845.179)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d1327ad6d271c71bc5bdc1c0db2489ff, findElement {using=css selector, value=.nuxt-link-exact-active.nuxt-link-active.text-blue-500.text-base.font-semibold}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60120}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60120/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d1327ad6d271c71bc5bdc1c0db2489ff
+[INFO ] 2023-09-12 22:34:26.630 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:37:33.332 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:37:33.335 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:37:35.404 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:37:35.431 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:37:35.437 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:37:45.687 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:37:46.977 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:37:46.977 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[WARN ] 2023-09-12 22:37:46.990 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-09-12 22:37:48.197 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:37:51.056 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:37:51.060 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:37:52.731 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:37:52.756 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:37:52.763 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:38:23.615 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:38:23.619 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:38:25.392 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:38:25.420 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:38:25.427 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:38:32.860 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:38:32.909 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 22:38:36.073 [main] Reuse - Oto Lastikler (185/65R14)
+[INFO ] 2023-09-12 22:38:46.220 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:38:46.478 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:39:07.651 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:39:07.654 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:39:09.692 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:39:09.717 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:39:09.723 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:39:45.530 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:39:45.534 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:39:47.271 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:39:47.296 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:39:47.303 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:39:51.041 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:39:51.084 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 22:39:56.750 [main] Reuse - Pişirme
+[INFO ] 2023-09-12 22:41:44.900 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:41:45.265 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:47:58.791 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:47:58.794 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:48:01.062 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:48:01.093 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:48:01.101 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:48:11.992 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:48:12.043 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 22:48:15.207 [main] Reuse - Tümü
+[INFO ] 2023-09-12 22:48:16.011 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:48:16.011 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:48:18.347 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:48:30.573 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:48:30.577 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:48:32.239 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:48:32.263 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:48:32.270 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:48:37.115 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:48:38.738 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 22:48:41.900 [main] Reuse - Anne İçecekleri
+[INFO ] 2023-09-12 22:48:43.701 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:48:43.701 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:48:44.952 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:51:05.131 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:51:05.135 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:51:07.059 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:51:07.089 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:51:07.097 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:51:21.793 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:51:21.845 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 22:51:25.014 [main] Reuse - Bebek Ağız Ve Diş Bakımı
+[INFO ] 2023-09-12 22:51:29.515 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:51:29.515 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-v-662b2bfa="" class="svg text-gray-300  svg--heart absolute top-2.5 right-3 z-20 hover:text-gray-400" style="width: 24px; height: 22px;">...</span> is not clickable at point (736, 928). Other element would receive the click: <div class="dengage-onsite-new-overlay dn-align-center dn-justify-center">...</div>
+  (Session info: chrome=116.0.5845.179)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3236ef6b65c955bbe6eb7b2ed6dc53, clickElement {id=20A01BA7CCEBF585522CFC5857D8258D_element_158}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64160}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64160/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (df3236ef6b65c955bbe6eb7b2ed6dc53)] -> css selector: [class="svg text-gray-300  svg--heart absolute top-2.5 right-3 z-20 hover:text-gray-400"]]
+Session ID: df3236ef6b65c955bbe6eb7b2ed6dc53
+[INFO ] 2023-09-12 22:51:29.810 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:53:07.626 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:53:07.630 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:53:09.781 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:53:09.811 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:53:09.819 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:53:16.806 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:53:17.914 [main] Reuse - Otomobil, Motosiklet ve Aksesuarları
+[INFO ] 2023-09-12 22:53:21.089 [main] Reuse - Motosiklet Aksesuarları
+[INFO ] 2023-09-12 22:53:25.673 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:53:25.673 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-v-662b2bfa="" class="svg text-gray-300  svg--heart absolute top-2.5 right-3 z-20 hover:text-gray-400" style="width: 24px; height: 22px;">...</span> is not clickable at point (1482, 928). Other element would receive the click: <div data-v-09be6c34="" class="flex items-center py-5">...</div>
+  (Session info: chrome=116.0.5845.179)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.5.2', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6a96715042e4882ace532af9ff8ab09a, clickElement {id=3FE694A9E920649E980BA1F890278D7D_element_123}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.179, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/yj/284zj0ln1jz...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64852}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64852/devtoo..., se:cdpVersion: 116.0.5845.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (6a96715042e4882ace532af9ff8ab09a)] -> css selector: [class="svg text-gray-300  svg--heart absolute top-2.5 right-3 z-20 hover:text-gray-400"]]
+Session ID: 6a96715042e4882ace532af9ff8ab09a
+[INFO ] 2023-09-12 22:53:25.995 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:54:26.131 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:54:26.134 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:54:28.132 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:54:28.160 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:54:28.168 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:54:31.775 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:54:31.818 [main] Reuse - Ev, Yaşam, Yapı Market
+[INFO ] 2023-09-12 22:54:46.125 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:54:46.126 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:54:46.394 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:54:52.570 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:54:52.574 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:54:54.205 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:54:54.234 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:54:54.241 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:54:58.018 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:54:58.071 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 22:55:13.721 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:55:13.721 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:55:14.052 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:56:37.000 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:56:37.003 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:56:39.058 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:56:39.089 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:56:39.098 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:56:43.096 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:56:43.144 [main] Reuse - Kitap, Kırtasiye, Hobi, Oyuncak
+[INFO ] 2023-09-12 22:56:58.876 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:56:58.876 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:56:59.152 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:57:21.524 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:57:21.528 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:57:23.326 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:57:23.355 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:57:23.362 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:57:27.061 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:57:27.106 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 22:57:37.908 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:57:37.908 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[WARN ] 2023-09-12 22:57:37.919 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-09-12 22:57:38.196 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:57:53.445 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:57:53.449 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:57:55.228 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:57:55.255 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:57:55.261 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:57:59.091 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:57:59.135 [main] Reuse - Elektronik
+[INFO ] 2023-09-12 22:58:05.029 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:58:05.030 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:58:05.320 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:58:26.751 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:58:26.754 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:58:28.786 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:58:28.814 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:58:28.821 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:58:32.767 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:58:32.810 [main] Reuse - Kişisel Bakım ve Kozmetik
+[INFO ] 2023-09-12 22:58:38.649 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 22:58:38.649 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-09-12 22:58:38.943 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 22:59:01.337 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 22:59:01.341 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 22:59:03.042 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 22:59:03.068 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 22:59:03.075 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 22:59:06.696 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 22:59:09.193 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:59:15.332 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 22:59:16.223 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 22:59:17.121 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 22:59:19.597 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 22:59:19.641 [main] Reuse - Cep Telefonu ve Aksesuar
+[INFO ] 2023-09-12 22:59:24.804 [main] Reuse - Tripod ve Selfie Çubuğu
+[INFO ] 2023-09-12 22:59:26.935 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 22:59:27.188 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 23:13:54.595 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 23:13:54.598 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 23:13:56.894 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 23:13:56.922 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 23:13:56.930 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 23:14:00.871 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 23:14:06.426 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:14:10.967 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:14:11.844 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 23:14:13.151 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 23:14:15.747 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 23:14:15.795 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 23:14:20.961 [main] Reuse - Hamile Dış Giyim
+[INFO ] 2023-09-12 23:14:23.765 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 23:14:23.765 [main] Listener - java.lang.AssertionError: expected [LuvmaBelly MYRA2309_2309 Hamile tshirt seti] but found [LuvmaBelly MYRA2010_2014 Hamile tshirt seti]
+[INFO ] 2023-09-12 23:14:24.082 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 23:15:34.561 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 23:15:34.564 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 23:15:36.561 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 23:15:36.588 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 23:15:36.595 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 23:15:42.010 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 23:15:49.166 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:15:50.637 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:15:51.512 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 23:15:52.219 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 23:15:53.746 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 23:15:53.778 [main] Reuse - Ayakkabı, Çanta ve Aksesuar
+[INFO ] 2023-09-12 23:15:58.941 [main] Reuse - Külçe Altın, Ziynet Altın
+[INFO ] 2023-09-12 23:16:04.539 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 23:16:04.539 [main] Listener - java.lang.AssertionError: expected [AgaKulche Nadir 1 kg. 24 ayar (995) Külçe Altın] but found [22 Ayar Üçlü Burma 30 Gr Bilezik]
+[WARN ] 2023-09-12 23:16:04.551 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-09-12 23:16:04.830 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 23:16:34.597 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 23:16:34.602 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 23:16:36.605 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 23:16:36.632 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 23:16:36.640 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 23:16:40.725 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 23:16:48.459 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:16:49.917 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:16:50.793 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 23:16:51.613 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 23:16:54.274 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 23:16:54.440 [main] Reuse - Spor ve Outdoor
+[INFO ] 2023-09-12 23:16:59.602 [main] Reuse - Bisiklet Aksesuar
+[INFO ] 2023-09-12 23:17:12.290 [main] Listener - Test Failed: goToPazaramaPage
+[ERROR] 2023-09-12 23:17:12.291 [main] Listener - java.lang.AssertionError: expected [Jack Wolfskin Moab Jam Pro Bisiklet Sırt Çantası] but found [60 Litre Su Geçirmez Bisiklet Bagaj Üstü Tur Heybesi, Çantası]
+[INFO ] 2023-09-12 23:17:12.571 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-09-12 23:17:59.027 [main] Utils - [TestNG] Running:
+  /Users/osman.turker/IdeaProjects/pazarama/src/test/java/XSuites/Smoke.xml
+
+[INFO ] 2023-09-12 23:17:59.031 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-09-12 23:18:01.046 [main] BaseTest - Window size: (1800, 1069)
+[INFO ] 2023-09-12 23:18:01.073 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-09-12 23:18:01.081 [main] Reuse - Kullanici Browser'i acar ve https://www.pazarama.com sayfasina gider.
+[INFO ] 2023-09-12 23:18:04.759 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna basar.
+[INFO ] 2023-09-12 23:18:09.291 [main] Reuse - Kullanici 'E-Posta adresiniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:18:14.137 [main] Reuse - Kullanici 'Şifreniz' yazan texbox'i doldurur.
+[INFO ] 2023-09-12 23:18:15.020 [main] Reuse - Kullanici gerekli bilgilerin girişini yapar ve 'DEVAM' butonuna basar.
+[INFO ] 2023-09-12 23:18:15.769 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-09-12 23:18:18.423 [main] Reuse - Kullanici Menüde rastgele bir kategoriye gider. Gidilen kategori ismi info olarak yazdırılır.
+[INFO ] 2023-09-12 23:18:18.583 [main] Reuse - Anne Bebek
+[INFO ] 2023-09-12 23:18:23.742 [main] Reuse - Anne İçecekleri
+[INFO ] 2023-09-12 23:18:36.322 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-09-12 23:18:36.583 [main] Listener - I am in onFinish method Study Case

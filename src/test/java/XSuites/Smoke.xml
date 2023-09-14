@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite_1">
+
+    <listeners>
+        <listener class-name="com.automated.pazarama.Listener.ExtentITestListenerClassAdapter" />
+    </listeners>
+
+    <test name="Study Case" >
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="Runner.Login" >
+            </class>
+        </classes>
+    </test>
+</suite>
